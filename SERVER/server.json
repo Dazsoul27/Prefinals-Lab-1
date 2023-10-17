@@ -1,0 +1,59 @@
+{
+  "company1": {
+    "id": 1,
+    "companyName": "SANHS",
+    "employee": {
+      "employee1": {
+        "name": "Dazz Senoicatse",
+        "position": "Superintendent"
+      },
+      "employee2": {
+        "name": "Lowleh Awawao",
+        "position": "Teaching Assistant"
+      },
+      "employee3": {
+        "name": "Didz Angsub",
+        "position": "Teacher"
+      },
+      "employee4": {
+        "name": "Bebiana Cuadz",
+        "position": "Registrar"
+      },
+      "employee5": {
+        "name": "Pepitz Monteverde",
+        "position": "School Principal"
+      }
+    },
+    "location": "Davao City"
+  },
+
+  "company2": {
+    "id": 2,
+    "companyName": "Shopify",
+    "employee": {
+      "employee1": {
+        "name": "Susan Connor",
+        "position": "Developer"
+      },
+      "employee2": {
+        "name": "Roger Lum",
+        "position": "Product Lister"
+      },
+      "employee3": {
+        "name": "Jeff Johnson",
+        "position": "Sales and Account Management"
+      },
+      "employee4": {
+        "name": "Melvin Forbis",
+        "position": "Business Development"
+      },
+      "employee5": {
+        "name": "Ronal Barr",
+        "position": "Business Operations"
+      }
+    },
+    "location": "Canada"
+  }
+
+
+}
